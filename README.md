@@ -21,7 +21,7 @@ This project focuses on detecting deforestation regions using **satellite images
 * **Deep Learning Frameworks:** TensorFlow, Keras
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
 * **Model Architectures:** CNN, SELU, TANH, VGG16
-* **Dataset:** Satellite imagery dataset for forest cover classification
+* **Dataset:** Satellite imagery dataset for forest cover classification (link 🔗: https://drive.google.com/drive/folders/12Vbfdv_F9WYbDP0mi0-03L6xLPl3txPW?usp=sharing)
 
 ---
 
