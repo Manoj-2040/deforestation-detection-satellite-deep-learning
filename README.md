@@ -87,13 +87,6 @@ This project demonstrates how **AI and Deep Learning** can be used to tackle env
 
 ---
 
-## 👨‍💻 Contributors
-
-* **Manoj Prabakaran** – Project Lead & Model Development
-* Team Members – Data preprocessing, evaluation, and documentation
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
